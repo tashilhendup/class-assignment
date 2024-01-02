@@ -1,0 +1,80 @@
+.card-title{
+    font-size: 20px;
+    font-weight: bold;
+    line-break: loose;
+}
+.list{
+    padding: 20px;
+    margin-top: 20px;
+    width: 90%;
+    margin: auto;
+}
+.card , w-75 mb-3{
+    border: none;
+
+}
+.card-bodys{
+    background-color: rgb(99, 116, 230);
+    padding: 50px;
+    height: 50vh;
+}
+.card-bodys-img{
+    width: 500px;
+    margin: auto;
+    position: relative;
+    bottom: 60px;
+}
+/* .row ,rows{
+    background-color: lightcoral;
+} */
+.card-h5 ,.card-p{
+    text-align: center;
+}
+
+.badge{
+    width: 30px;
+    height: 30px;
+    background-color: rgb(54, 166, 203)
+}
+.badge-container{
+    width: 100%;
+    background-color: aquamarine;
+    /* display: flex; */
+  
+}
+.badge{
+   position: relative;
+   left: 700px;
+    width: 4%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.badge p{
+    position: relative;
+   left: 700px;
+  
+}
+.col{
+    /* border: 2px solid black; */
+    margin: auto;
+    padding: 20px;
+}
+.card ,h-100{
+    width: 70%;
+    
+}
+.card-img-overlay{
+    background-color: white;
+    height: 200px;
+    color: black;
+    text-align: center;
+    margin: auto;
+    margin-top: 300px;
+}
+.card-1{
+    width: 50%;
+    background-color: olive;
+    margin: auto;
+}
